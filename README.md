@@ -1,36 +1,82 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+🎨 ShadCN UI Practice App
 
-## Getting Started
+This project is a practice application built to explore and implement shadcn/ui
+ components.
+It demonstrates how to effectively use ShadCN’s pre-built and customizable UI primitives to create a modern, clean, and responsive interface.
 
-First, run the development server:
+✨ Features
 
-```bash
+📊 Chart Component – Visualize data in a simple, clean chart.
+
+🗂️ Card Component – Display information in a structured, styled container.
+
+👤 Avatar Component – Show profile pictures or user initials.
+
+🔘 Buttons, Inputs, and More – Explore ShadCN’s core interactive elements.
+
+⚡ Built with React + TailwindCSS for a smooth developer experience.
+
+📱 Responsive and minimal design.
+
+🖼️ Screenshots
+
+Here are some preview screenshots of the app in action:
+
+🏠 Dashboard Overview
+## 🖼 Screenshot
+![Screenshot](./src/assets/Screenshot.png)
+
+🛠️ Tech Stack
+
+⚛️ React – UI Library
+
+⚡ Vite – Development build tool
+
+🎨 TailwindCSS – Utility-first CSS framework
+
+🧩 shadcn/ui – Component library for styling and UI primitives
+
+⚙️ Installation & Setup
+
+📥 Clone the repository:
+
+git clone https://github.com/....
+cd shadcn-practice-app
+
+
+📦 Install dependencies:
+
+npm install
+
+
+▶️ Run the development server:
+
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+🌐 Open your browser at:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+http://localhost:5173
 
-## Learn More
+🎯 Purpose
 
-To learn more about Next.js, take a look at the following resources:
+This application was built for practice.
+The main goal was to:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+🧑‍💻 Gain hands-on experience with shadcn/ui components.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+🎨 Learn how to extend and customize them.
 
-## Deploy on Vercel
+✍️ Improve UI/UX design skills while keeping code clean and reusable.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+🚀 Next Steps
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+➕ Add more ShadCN components like Dialog, Dropdown, and Table.
+
+🔗 Integrate mock APIs to populate charts and cards dynamically.
+
+🎞️ Explore animations with Framer Motion for enhanced UI interactions.
+
+📄 License
+
+This project is for learning purposes. You’re free to fork and explore!
