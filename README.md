@@ -24,7 +24,8 @@ Here are some preview screenshots of the app in action:
 
 🏠 Dashboard Overview
 ## 🖼 Screenshot
-![Screenshot](./src/assets/Screenshot.png)
+![Screenshot](.![Project Preview](.app/Screenshot.png)
+)
 
 🛠️ Tech Stack
 
